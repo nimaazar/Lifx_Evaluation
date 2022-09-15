@@ -1,0 +1,3 @@
+# Lifx Evaluation
+
+word list
